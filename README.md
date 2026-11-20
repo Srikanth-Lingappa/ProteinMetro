@@ -2,7 +2,7 @@
 
 A subway-map route advisor for protein design pipelines.
 
-**Live site:** https://srikanth-lingappa.github.io/protein-metro/
+**Live site:** https://srikanth-lingappa.github.io/ProteinMetro/
 
 If you've ever tried to design a protein, you know the hard part isn't finding tools, it's figuring out which ones to chain together, in what order, and what numbers to trust at each handoff. RFdiffusion or BindCraft? ProteinMPNN or LigandMPNN? AlphaFold2, ColabFold, or Boltz-2 to check the result? It depends on what you're designing, what you already know about your target, and what hardware you actually have.
 
